@@ -1,7 +1,7 @@
 Hi there! 👋 My name is Steven Rey
 ================================
 
-## Coach & Python Junior Developer
+## Programming Coach & Junior Developer - Python
 --------------------
 
 * 🌍  I'm based in Asunción - Paraguay
