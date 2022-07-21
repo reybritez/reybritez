@@ -1,7 +1,7 @@
 Hi there! 👋 My name is Steven Rey
 ================================
 
-## Programming Coach & Junior Developer - Python
+## Python Junior Developer & Business Tech Consultant
 
 * 🌍  I'm based in Asunción - Paraguay
 * 🧠  I'm learning Python
@@ -33,11 +33,8 @@ src="https://img.shields.io/twitter/follow/reybritez?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<p align="center">
-  <a href="https://github.com/reybritez">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reybritez&theme=solarized_dark" width="500">
-  </a>
-</p>
+<a href="https://github.com/reybritez">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reybritez&theme=solarized_dark" width="500"></a>
 
 
 <a href="http://www.github.com/reybritez"><img src="https://github-readme-stats.vercel.app/api?username=reybritez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="reybritez's GitHub stats" /></a>
