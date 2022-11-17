@@ -4,8 +4,8 @@ Hi there! 👋 My name is Steven Rey
 ## Python Junior Developer & Business Tech Consultant
 
 * 🌍  I'm based in Asunción - Paraguay
-* 🧠  I'm learning Python
-* 🔭  Currently working on develop my business path & learning more about english
+* 🧠  I'm learning JavaScript & Mastering Python Automation
+* 🔭  Currently working on develop my business path & learn some english
 * 🖥️  See my portfolio at [reybritez.com](http://reybritez.com)
 * ✉️  You can contact me at [steven@reybritez.com](mailto:steven@reybritez.com)
 
