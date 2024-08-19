@@ -1,13 +1,14 @@
 Hi there! 👋 My name is Steven Rey
 ================================
 
-## Python Junior Developer & Business Tech Consultant
+## Mid-Senior Python Developer & Web Implementation Specialist
 
 * 🌍  I'm based in Asunción - Paraguay
-* 🧠  I'm learning JavaScript & Mastering Python Automation
-* 🔭  Currently working on develop my business path & learn some english
-* 🖥️  See my portfolio at [reybritez.com](http://reybritez.com)
-* ✉️  You can contact me at [steven@reybritez.com](mailto:steven@reybritez.com)
+* 🧠  I'm learning Django and Postgresql & Mastering in Systems Design.
+* 🔭  Currently working on a internal services for my organization.
+* ⚡ Fun fact: I program, but love the no-code tools. 
+* 🖥️  You can see my portfolio at [reybritez.com](http://reybritez.com)
+* ✉️  Contact me at [steven@reybritez.com](mailto:steven@reybritez.com)
 
 <a href="https://www.twitter.com/reybritez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/reybritez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
