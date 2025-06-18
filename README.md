@@ -7,8 +7,8 @@ Hi there! 👋 My name is Steven Rey
 * 🧠  I'm learning Django and Postgresql & Mastering in Systems Design.
 * 🔭  Currently working on a internal services for my organization.
 * ⚡ Fun fact: I program, but love the no-code tools. 
-* 🖥️  You can see my portfolio at [reybritez.com](http://reybritez.com)
-* ✉️  Contact me at [steven@reybritez.com](mailto:steven@reybritez.com)
+* 🖥️  You can see my portfolio at [reybritez.org](http://reybritez.org)
+* ✉️  Contact me at [steven@reybritez.org](mailto:stevenreybritez@proton.me)
 
 <a href="https://www.twitter.com/reybritez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/reybritez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
